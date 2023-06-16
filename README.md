@@ -35,7 +35,7 @@ This application, implemented in Java, is designed to manage a car service stati
 
 6. If the total service bill exceeds ₹ 10000, a complimentary cleaning will be provided and specified in the bill.
 
-#### Examples
+## Examples
 * Example 1:
 
   **Type of Car:** _Hatchback_
