@@ -38,27 +38,26 @@ This software, implemented in Java, is designed to manage a car service station 
 #### Examples
 * Example 1:
 
-  Type of Car: _Hatchback_
+  **Type of Car:** _Hatchback_
 
-  Service Codes: _BS01, EF01_
+  **Service Codes:** _BS01, EF01_
 
-    
-  Generated Bill:
+  **Generated Bill:**
 
-  Charges for Basic Servicing: ₹ 2000
-  Charges for Engine Fixing: ₹ 5000
-  Total Bill: ₹ 7000
+   _Charges for Basic Servicing:_ ₹ 2000 <br/>
+  _Charges for Engine Fixing:_ ₹ 5000 <br/>
+  _Total Bill:_ ₹ 7000 <br/>
  
 * Example 2:
   
-  Type of Car: SUV
+   **Type of Car:** SUV
 
-  Service Codes: CF01, GF01, BF01
+   **Service Codes:** CF01, GF01, BF01
 
-  Bill:
+  **Generated Bill:**
 
-Charges for Clutch Fixing: ₹ 6000<br/>
-Charges for Gear Fixing: ₹ 8000<br/>
-Charges for Brake Fixing: ₹ 2500<br/>
-Total Bill: ₹ 16500<br/>
-Complimentary Cleaning: Yes<br/>
+   _Charges for Clutch Fixing:_ ₹ 6000 <br/>
+  _Charges for Gear Fixing:_ ₹ 8000 <br/>
+  _Charges for Brake Fixing:_ ₹ 2500 <br/>
+  _Total Bill:_ ₹ 16500 <br/>
+  _Complimentary Cleaning:_ Yes<br/>
