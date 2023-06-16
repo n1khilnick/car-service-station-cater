@@ -9,7 +9,7 @@ This software, implemented in Java, is designed to manage a car service station 
 
 * Offers a complimentary cleaning if the total service bill exceeds ₹ 10000.
 
-### Service Codes and Prices
+  ### Service Codes and Prices
 
 
     | Service Code | Service         | Hatchback  | Sedan  | SUV     |
