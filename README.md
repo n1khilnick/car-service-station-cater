@@ -1,5 +1,5 @@
-# Car Service Station Software
-This software, implemented in Java, is designed to manage a car service station and generate detailed bills for service requests. It caters to different types of cars (Hatchback, Sedan, SUV) and provides various services such as Basic Service, Engine Fixing, Clutch Fixing, Gear Fixing, and Brake Fixing.
+# Car Service Station Cater
+This application, implemented in Java, is designed to manage a car service station and generate detailed bills for service requests. It caters to different types of cars (Hatchback, Sedan, SUV) and provides various services such as Basic Service, Engine Fixing, Clutch Fixing, Gear Fixing, and Brake Fixing.
 
 ## Features
 
