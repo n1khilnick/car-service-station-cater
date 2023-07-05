@@ -21,19 +21,6 @@ This application, implemented in Java, is designed to manage a car service stati
     | GF01         | Gear Fixing     | ₹ 3000     | ₹ 6000 | ₹ 8000  |
 
 
-## Usage
-
-1. Clone the repository:
-
-2. Open the project in your preferred Java IDE.
-
-3. Run the Main.java file.
-
-4. Follow the prompts to enter the type of car (Hatchback, Sedan, or SUV) and the service codes for the requested services.
-
-5. The software will generate a detailed bill with the total amount for the service request.
-
-6. If the total service bill exceeds ₹ 10000, a complimentary cleaning will be provided and specified in the bill.
 
 ## Examples
 * Example 1:
@@ -61,3 +48,18 @@ This application, implemented in Java, is designed to manage a car service stati
   _Charges for Brake Fixing:_ ₹ 2500 <br/>
   _Total Bill:_ ₹ 16500 <br/>
   _Complimentary Cleaning:_ Yes<br/>
+
+
+## Usage
+
+1. Clone the repository:
+
+2. Open the project in your preferred Java IDE.
+
+3. Run the Main.java file.
+
+4. Follow the prompts to enter the type of car (Hatchback, Sedan, or SUV) and the service codes for the requested services.
+
+5. The software will generate a detailed bill with the total amount for the service request.
+
+6. If the total service bill exceeds ₹ 10000, a complimentary cleaning will be provided and specified in the bill.
